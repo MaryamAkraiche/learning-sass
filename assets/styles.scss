@@ -36,16 +36,11 @@ div {
   width: 400px;
   position: relative;
 
-  
 }
 
 .card:hover {
   box-shadow: 0 8px 30px 0 rgba(0,0,0,1);
 }
-
-// .card:hover .container {
-//   height: 100px;
-// }
 
 .card:hover .container p {
   display: block;
@@ -70,10 +65,11 @@ div {
 ul {
   list-style: none;
   display: flex;
-  background-color: blue;
+  margin: 0;
+  padding: 0;
 }
 
 li {
   margin-right: 30px;
-  align-content: flex-start;
+  
 }

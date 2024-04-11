@@ -60,10 +60,10 @@ div {
 ul {
   list-style: none;
   display: flex;
-  background-color: blue;
+  margin: 0;
+  padding: 0;
 }
 
 li {
   margin-right: 30px;
-  align-content: flex-start;
 }/*# sourceMappingURL=styles.css.map */
